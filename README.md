@@ -94,7 +94,7 @@ MIT License
 
 👤 Author
 
-Developed by [Your Name or Handle]Inspired by modern active deception countermeasures and FunnelWS project.
+Developed by Aslak35-me Inspired by modern active deception countermeasures and FunnelWS project.
 
 📬 Contributions
 
